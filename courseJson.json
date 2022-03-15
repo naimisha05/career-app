@@ -1,0 +1,327 @@
+{
+    "name": "Web Design",
+    "description": "develop web designs",
+    "videos": [{
+            "title": "Web Design introduction",
+            "url": "https://www.youtube.com/watch?v=M7LBvsdhCuI",
+            "author": "Naveen Reddy"
+        },
+        {
+            "title": "Web Design and development Process",
+            "url": "https://www.youtube.com/watch?v=tCvCt6B9920",
+            "author": "Kavin Kumar"
+        },
+        {
+            "title": "Web Design tools",
+            "url": " https://www.lambdatest.com/blog/14-best-web-design-tool-for-designers-while-remote-working/",
+            "author": "Lekha"
+        },
+        {
+            "title": " The Ultimate Guide to Web Design",
+            "url": " https://www.youtube.com/watch?v=Q33KBiDriJY",
+            "author": " Praneeth"
+        },
+        {
+            "title": "Top 3 UX Tools ",
+            "url": "https://www.youtube.com/watch?v=cS7jy_Uy0V8",
+            "author": "Rahul"
+        }
+
+
+
+    ]
+}
+
+{
+    "name": "Seo Marketing",
+    "description": "learn marketing",
+    "videos": [{
+            "title": "Seo introduction",
+            "url": "https://blog.hubspot.com/marketing/seo",
+            "author": "Praharsh"
+        },
+        {
+            "title": "Marketing Stratagies",
+            "url": "https://www.wordstream.com/blog/ws/2020/01/07/best-marketing-strategies",
+            "author": "Sreelekha"
+        },
+        {
+            "title": "Tools needed",
+            "url": " https://www.youtube.com/watch?v=OYRkIGaP80M",
+            "author": "Soumya "
+        },
+        {
+            "title": " How to start a project with Seo marketing",
+            "url": " https://www.youtube.com/watch?v=O8tKWYKG4jA",
+            "author": " Vikas"
+        },
+        {
+            "title": "Advance SEO ",
+            "url": "https://www.youtube.com/watch?v=56ZRyX9ltyY",
+            "author": "ZeeNath"
+        }
+
+
+
+    ]
+}
+
+{
+    "name": "Science and Biology",
+    "description": "explore science and learn more",
+    "videos": [{
+            "title": "what is science",
+            "url": "https://www.youtube.com/watch?v=HaS0xNcAaWo",
+            "author": "Niyathi"
+        },
+        {
+            "title": "Biology and cell structure",
+            "url": " https://www.youtube.com/watch?v=URUJD5NEXC8",
+            "author": "Siri "
+        },
+        {
+            "title": "What exactly is biology",
+            "url": "https://www.youtube.com/watch?v=HaS0xNcAaWo ",
+            "author": "Professor Dave "
+        },
+        {
+            "title": " easy experiments of science",
+            "url": " https://www.youtube.com/watch?v=X4XKZ8irrYQ",
+            "author": " David"
+        },
+        {
+            "title": "Amazing experiments of science with Life ",
+            "url": "https://www.youtube.com/watch?v=HT_N0QlyUGY",
+            "author": "Darshana"
+        }
+
+
+
+    ]
+}
+
+{
+    "name": "Music and Dance",
+    "description": "hum and enjoy the tune",
+    "videos": [{
+            "title": " meditative music",
+            "url": "https://www.youtube.com/watch?v=GZYWX9if10E",
+            "author": "Sindhu"
+        },
+        {
+            "title": "Music Theorey",
+            "url": " https://www.youtube.com/watch?v=rgaTLrZGlk0",
+            "author ": " Andrew"
+        },
+        {
+            "title": "learn dance",
+            "url": "https://www.youtube.com/watch?v=klKcQt_awWw ",
+            "author": "Wall Street "
+        },
+        {
+            "title": " Hip Hop dance",
+            "url": "https://www.youtube.com/watch?v=Kd-Va1m4s1E ",
+            "author": " Lucie Fink"
+        },
+        {
+            "title": "top dance songs ",
+            "url": "https://www.youtube.com/watch?v=S51_bmqFXwM",
+            "author": "T series"
+        }
+
+
+
+    ]
+}
+
+{
+
+
+    "name": "Digital marketing",
+    "description": "Learn to invest",
+    "videos": [{
+            "title": " basic marketing",
+            "url": "https://www.youtube.com/watch?v=bixR-KIJKYM",
+            "author": "Edureka"
+        },
+        {
+            "title": "Introduction to Marketing",
+            "url": " https://www.youtube.com/watch?v=ZVuHLPl69mM",
+            "author ": " Simplelearn"
+        },
+        {
+            "title": "Why,How Marketing",
+            "url": "https://blog.hubspot.com/marketing/what-is-digital-marketing ",
+            "author": "Lucy Alexander "
+        },
+        {
+            "title": " differet strategies",
+            "url": "https://www.marketingevolution.com/marketing-essentials/what-is-a-digital-marketing-platform-marketing-evolution ",
+            "author": " Sneha"
+        },
+        {
+            "title": "types,practices of marketing ",
+            "url": "https://www.toolbox.com/marketing/content-marketing/articles/what-is-digital-marketing-definition-types-best-practices-with-examples/",
+            "author": "Indrajeet"
+        }
+
+
+
+    ]
+}
+
+{
+
+
+    "name": "Maths And Statastics",
+    "description": "calculate easily",
+    "videos": [{
+            "title": " Simple Maths tricks",
+            "url": "https://www.youtube.com/watch?v=RY2wQY70TeY",
+            "author": "Crafts teens"
+        },
+        {
+            "title": "Vedic Mths",
+            "url": " https://www.youtube.com/watch?v=lt1FY6jlgmY",
+            "author ": " Subash"
+        },
+        {
+            "title": "intro to statastics",
+            "url": "https://www.youtube.com/watch?v=VPZD_aij8H0",
+            "author": "MIT OpenWare "
+        },
+        {
+            "title": " Central tendencies in stats",
+            "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr ",
+            "author": " Vinod"
+        },
+        {
+            "title": " Inferential statastics",
+            " url": "  https: //www.youtube.com/watch?v=VHYOuWu9jQI",
+            "author": " Lebo Modise"
+
+        }
+
+
+
+    ]
+}
+
+{
+
+
+
+
+    "name": "Data Analysis",
+    "description": "analyse the data",
+    "videos": [{
+            "title": "data Analyst requirements ",
+            "url": "https://www.youtube.com/watch?v=A1JN_UN3mYE",
+            "author": "Shivani Agarwal"
+        },
+        {
+            "title": " Analysis using Python and SQL",
+            "url": " https://www.youtube.com/watch?v=woPRf0xb9bA",
+            "author ": " Vikas pal"
+        },
+        {
+            "title": "Data Extraction",
+            "url": "https://www.youtube.com/watch?v=DmkswBf8SOk",
+            "author": "Anastasia "
+        },
+        {
+            "title": "Qualitative data Analysis ",
+            "url": "https://www.youtube.com/watch?v=j9A3ceOBihM ",
+            "author": " Gard coach"
+        },
+        {
+            "title": " Data Analysis",
+            " url": " https://www.youtube.com/watch?v=EUeQRE5UJpg",
+            "author": " Emel"
+
+        }
+
+
+
+    ]
+}
+
+{
+
+
+
+
+
+    "name": "Email Marketing",
+    "description": " learn and grow",
+    "videos": [{
+            "title": "what is email marketing and how does it work ",
+            "url": "https://www.sendinblue.com/blog/what-is-email-marketing/",
+            "author": "Sient"
+        },
+        {
+            "title": " email marketing tutorial",
+            "url": " https://www.youtube.com/watch?v=RkiX6zcjJBk",
+            "author ": " Andres"
+        },
+        {
+            "title": "hubspot of email marketing",
+            "url": "https://www.youtube.com/watch?v=OfKrJalDAHw",
+            "author": "Stevart "
+        },
+        {
+            "title": "using mailchimp  for marketing",
+            "url": "https://www.youtube.com/watch?v=rSQSvKlZLF4 ",
+            "author": " Linda"
+        },
+        {
+            "title": "types of Marketing Emails ",
+            " url": " https://blog.hubspot.com/blog/tabid/6307/bid/33987/11-types-of-marketing-emails-you-could-be-sending-free-templates.aspx",
+            "author": " Anum"
+
+        }
+
+
+
+    ]
+}
+
+{
+
+
+
+
+
+    "name": "Graphic Design",
+    "description": " design and animate",
+    "videos": [{
+            "title": " Fundamentals of Graphic Designing",
+            "url": "https://www.youtube.com/watch?v=YqQx75OPRa0",
+            "author": "GCFLearn"
+        },
+        {
+            "title": " Everthing about Graphic",
+            "url": " https://www.youtube.com/watch?v=vkSOIkNWCww",
+            "author ": " Ishan Sharma"
+        },
+        {
+            "title": "Portfolio of  graphic Designing",
+            "url": "https://www.youtube.com/watch?v=DF64yY3dZy0",
+            "author": " Satori Graphics"
+        },
+        {
+            "title": "online graphic designing",
+            "url": "https://digiskills.pk/CourseDetails.aspx?Id=GRD101 ",
+            "author": " Yasir Javed"
+        },
+        {
+            "title": "best software available for designers ",
+            " url": " https://blog.hubspot.com/marketing/best-free-graphic-design-software",
+            "author": " Doug"
+
+        }
+
+
+
+    ]
+}
